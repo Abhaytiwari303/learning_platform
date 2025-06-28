@@ -1,0 +1,8 @@
+Django
+djangorestframework
+channels
+channels_redis
+psycopg2-binary
+celery
+django-cors-headers
+python-decouple
